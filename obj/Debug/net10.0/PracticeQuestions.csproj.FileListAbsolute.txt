@@ -1,0 +1,14 @@
+/Users/shashimani/Codes/dotnet/PracticeQuestions/obj/Debug/net10.0/PracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shashimani/Codes/dotnet/PracticeQuestions/obj/Debug/net10.0/PracticeQuestions.AssemblyInfoInputs.cache
+/Users/shashimani/Codes/dotnet/PracticeQuestions/obj/Debug/net10.0/PracticeQuestions.AssemblyInfo.cs
+/Users/shashimani/Codes/dotnet/PracticeQuestions/obj/Debug/net10.0/PracticeQuestions.csproj.CoreCompileInputs.cache
+/Users/shashimani/Codes/dotnet/PracticeQuestions/bin/Debug/net10.0/PracticeQuestions
+/Users/shashimani/Codes/dotnet/PracticeQuestions/bin/Debug/net10.0/PracticeQuestions.deps.json
+/Users/shashimani/Codes/dotnet/PracticeQuestions/bin/Debug/net10.0/PracticeQuestions.runtimeconfig.json
+/Users/shashimani/Codes/dotnet/PracticeQuestions/bin/Debug/net10.0/PracticeQuestions.dll
+/Users/shashimani/Codes/dotnet/PracticeQuestions/bin/Debug/net10.0/PracticeQuestions.pdb
+/Users/shashimani/Codes/dotnet/PracticeQuestions/obj/Debug/net10.0/PracticeQuestions.dll
+/Users/shashimani/Codes/dotnet/PracticeQuestions/obj/Debug/net10.0/refint/PracticeQuestions.dll
+/Users/shashimani/Codes/dotnet/PracticeQuestions/obj/Debug/net10.0/PracticeQuestions.pdb
+/Users/shashimani/Codes/dotnet/PracticeQuestions/obj/Debug/net10.0/PracticeQuestions.genruntimeconfig.cache
+/Users/shashimani/Codes/dotnet/PracticeQuestions/obj/Debug/net10.0/ref/PracticeQuestions.dll
