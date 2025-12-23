@@ -4,6 +4,16 @@ namespace PracticeQuestions
 {
     public class DateChecker
     {
+        /// <summary>
+        /// Method to check if the given date is valid
+        /// </summary>
+        /// <param name="day">day input as Int</param>
+        /// <param name="month">month input as Int</param>
+        /// <param name="year">year input as Int</param>
+        /// <returns>
+        /// True if date is valid
+        /// False if date is invalid
+        /// </returns>
         public bool IsValidDate(int day, int month, int year)
         {
 

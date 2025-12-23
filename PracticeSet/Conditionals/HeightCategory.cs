@@ -4,6 +4,13 @@ namespace PracticeQuestions
 {
     public class HeightChecker
     {
+        /// <summary>
+        /// Method to check if the person is dwarf, tall or abnormal
+        /// </summary>
+        /// <param name="height">height in cm as Int</param>
+        /// <returns>
+        /// Height remarks as String
+        /// </returns>
         public string checkHeight(int height)
         {
             string heightStr = "";

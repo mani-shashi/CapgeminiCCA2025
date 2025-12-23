@@ -4,6 +4,13 @@ namespace PracticeQuestions
 {
     public class GradeChecker
     {
+        /// <summary>
+        /// Methods to check Grade remarks like good, very good and others
+        /// </summary>
+        /// <param name="grade">grade input as char</param>
+        /// <returns>
+        /// Grade Remarks as String
+        /// </returns>
         public string getGradeRemarks(char grade)
         {
             string GradeRemarks = "";
